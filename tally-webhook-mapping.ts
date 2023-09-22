@@ -6,7 +6,12 @@ const mapping: Mapping = {
     label: "First Last",
     type: "INPUT_TEXT",
   },
-  Email: {
+  "Email (1)": {
+    key: "question_Y5pzGB",
+    label: "Email",
+    type: "INPUT_EMAIL",
+  },
+  "Email (2)": {
     key: "question_Y5pzGB",
     label: "Email",
     type: "INPUT_EMAIL",
@@ -26,7 +31,7 @@ const mapping: Mapping = {
     label: "Linkedin.com/in/…",
     type: "INPUT_TEXT",
   },
-  "Untitled dropdown field": {
+  "Time Zone": {
     key: "question_vGeZjd",
     label: "Time Zone",
     type: "DROPDOWN",
