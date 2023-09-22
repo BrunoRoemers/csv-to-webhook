@@ -1,0 +1,16 @@
+{
+  "name": "csv-to-webhook",
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "@tsconfig/node18": "^18.2.2",
+    "@types/node": "^20.6.3",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.0",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2"
+  },
+  "prettier": {}
+}
