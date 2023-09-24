@@ -11,11 +11,11 @@ const mapping: Mapping = {
     label: "Email",
     type: "INPUT_EMAIL",
   },
-  "Email (2)": {
-    key: "question_Y5pzGB",
-    label: "Email",
-    type: "INPUT_EMAIL",
-  },
+  // "Email (2)": {
+  //   key: "question_Y5pzGB",
+  //   label: "Email",
+  //   type: "INPUT_EMAIL",
+  // },
   "TG@username": {
     key: "question_b5jpV2",
     label: "TG@username",
